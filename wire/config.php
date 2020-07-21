@@ -925,7 +925,7 @@ $config->pageNameCharset = 'ascii';
  * @var string
  * 
  */ 
-$config->pageNameWhitelist = '-_.abcdefghijklmnopqrstuvwxyz0123456789æåäßöüđжхцчшщюяàáâèéëêěìíïîõòóôøùúûůñçčćďĺľńňŕřšťýžабвгдеёзийклмнопрстуфыэęąśłżź';
+$config->pageNameWhitelist = '-_abcdefghijklmnopqrstuvwxyz0123456789æåäßöüđжхцчшщюяàáâèéëêěìíïîõòóôøùúûůñçčćďĺľńňŕřšťýžабвгдеёзийклмнопрстуфыэęąśłżź';
 
 /**
  * Name to use for untitled pages
